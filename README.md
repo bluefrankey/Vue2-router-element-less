@@ -1,4 +1,5 @@
-# test-project
+# bluefrankey's project 
+# vue2+vue-router+element-ui+less+axios
 
 > A Vue.js project
 
